@@ -1,5 +1,5 @@
 const express = require('express');
-const app = express();
+const app1 = express();
 
 const blaguesData = require('../BD/blague');
 
